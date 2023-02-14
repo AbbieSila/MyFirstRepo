@@ -1,5 +1,5 @@
 # my first working repo
-Abigael sila
+Abigael Sila
 I am a student
 At moi university
 School of Engineering
